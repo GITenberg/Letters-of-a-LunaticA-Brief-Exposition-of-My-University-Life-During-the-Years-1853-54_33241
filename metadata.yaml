@@ -1,0 +1,34 @@
+_repo: Letters-of-a-LunaticA-Brief-Exposition-of-My-University-Life-During-the-Years-1853-54_33241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adler, G. J. (George J.)
+    alias: Adler, George J.
+    birthdate: 1821
+    deathdate: 1868
+    gutenberg_agent_id: '36284'
+    url: http://www.gutenberg.org/2009/agents/36284
+    wikipedia: http://en.wikipedia.org/wiki/George_J._Adler
+description: ''
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental illness -- Personal narratives'
+- !lcsh 'Mentally ill -- Commitment and detention'
+- !lcsh 'Bloomingdale Asylum for the Insane'
+- !lcsh 'Psychiatric hospitals -- New York'
+- !lcc 'RC'
+- !lcsh 'Adler, G. J. (George J.), 1821-1868 -- Correspondence'
+title: 'Letters of a Lunatic
+
+  A Brief Exposition of My University Life, During the Years 1853-54'
+url: http://www.gutenberg.org/ebooks/33241
